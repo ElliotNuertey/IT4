@@ -1,0 +1,72 @@
+.navbar {
+    background-color: #0f1471;
+}
+
+.nav-link{
+    color: white;
+    margin-right: 4px;
+}
+
+.nav-link:hover{
+
+    color:orangered;
+}
+/* \ Hero Section */
+
+.hero-section{
+    background-color: #0f1471;
+    
+}
+
+.hero-section.img{
+    width:60%;
+}
+
+/* Services */
+
+.title{
+    color:#0f1471;
+
+}
+
+.service1 .col{
+    background-color: white;
+}
+i{
+    color:orangered;
+}
+/* About */
+
+/* business */
+.what{
+    background-color: #0f1471;
+}
+
+.card{
+    background-color: #0f1471;
+    border: 1px solid white;
+}
+.section-card{
+    background-color: #0f1471;
+}
+
+.nav-link-footer{
+    list-style:none;
+    color:black;
+    text-decoration: none;
+    /* margin-bottom: 10px; */
+}
+
+.nav-link-footer:hover{
+    color:orangered;
+    text-decoration: underline;
+}
+
+.service-link{
+    text-decoration: none;
+    color: black;
+}
+.service-items li{
+    list-style: none;
+    gap:10px;
+}
